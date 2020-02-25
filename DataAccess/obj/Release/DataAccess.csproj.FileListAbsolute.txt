@@ -1,0 +1,6 @@
+C:\Users\Mazharul Hoque Naumy\source\repos\WindowsFormsApp\DataAccess\bin\Release\DataAccess.dll.config
+C:\Users\Mazharul Hoque Naumy\source\repos\WindowsFormsApp\DataAccess\bin\Release\DataAccess.dll
+C:\Users\Mazharul Hoque Naumy\source\repos\WindowsFormsApp\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\Mazharul Hoque Naumy\source\repos\WindowsFormsApp\DataAccess\obj\Release\DataAccess.csprojAssemblyReference.cache
+C:\Users\Mazharul Hoque Naumy\source\repos\WindowsFormsApp\DataAccess\obj\Release\DataAccess.dll
+C:\Users\Mazharul Hoque Naumy\source\repos\WindowsFormsApp\DataAccess\obj\Release\DataAccess.pdb
